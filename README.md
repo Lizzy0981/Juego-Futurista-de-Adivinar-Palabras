@@ -3,6 +3,7 @@
 Este es un juego interactivo de adivinar palabras con una interfaz futurista y atractiva. Los jugadores deben descifrar una palabra desordenada en un ambiente visualmente estimulante.
 
 ## Imagen App
+![imagen app juego](https://github.com/user-attachments/assets/e4788fa0-48b9-4bbc-9021-97378836ae40)
 
 ## Características
 
@@ -24,7 +25,7 @@ Este es un juego interactivo de adivinar palabras con una interfaz futurista y a
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/juego-futurista-palabras.git
+   git clone https://github.com/Lizzy0981/Juego-Futurista-de-Adivinar-Palabras.git
    ```
 2. Navega al directorio del proyecto:
    ```
